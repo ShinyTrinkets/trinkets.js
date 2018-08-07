@@ -1,0 +1,25 @@
+{
+  "authors": [
+    "Cristi Constantin <cristi.constantin@live.com>"
+  ],
+  "dependencies": {
+    "chokidar": "2.0.4",
+    "node-cron": "1.2.1"
+  },
+  "description": "Trinkets/Gears node.js helpers",
+  "engines": {
+    "node": ">=8.0"
+  },
+  "keywords": [
+    "⚙️",
+    "🔩",
+    "gears",
+    "trinkets",
+    "automation"
+  ],
+  "license": "MIT",
+  "main": "README.md",
+  "name": "trinkets",
+  "repository": "https://github.com/ShinyTrinkets/trinkets.js",
+  "version": "0.0.0"
+}
